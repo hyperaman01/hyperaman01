@@ -207,9 +207,3 @@ I am open to collaborating on:
 ## Contact
 
 For professional or development-related inquiries, please use the contact information available through my GitHub profile.
-
----
-
-## License
-
-Individual repositories contain their respective licensing information. Please refer to the `LICENSE` file within each repository for specific terms.
